@@ -1,0 +1,7 @@
+setuptools
+pymorphy2~=0.9.1
+fastapi~=0.110.1
+uvicorn
+backport_collections
+regex
+flask~=3.0.3
